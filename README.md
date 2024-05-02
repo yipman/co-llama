@@ -2,6 +2,9 @@
 
 Co-Llama is a personal AI assistant and user companion that speaks with the tone, style, and personality of characters from popular Sci-Fi media. This project is a Python-based implementation of a conversational AI assistant that can be used to chat with users and respond to their queries.
 
+
+![image](https://github.com/yipman/co-llama/assets/547379/256d89f4-3fcf-425f-aaac-2961fb05c6d3)
+
 ## Features
 
 * Conversational AI assistant that responds to user input
