@@ -34,19 +34,28 @@ The ToolGenerator class is responsible for generating Python tools based on user
 The generate_tool method generates a Python tool based on the user input. The method consists of the following steps:
 
 Prompt Generation: The method generates a prompt that asks the user to write a Python function that takes an input of type [input_type] and returns an output of type [output_type]. The prompt also includes the tool pipeline code.
+
 Tool Generation: The method sends the prompt to the user and receives the generated tool code.
+
 Refinement: The method refines the generated tool code to optimize its performance and accuracy.
+
 Documentation: The method generates a document that describes the refined tool, including its name, description, input type, usage, pipeline, and output type.
+
 Code Generation: The method generates the Python code for the tool based on the refined tool code and saves it in a .py file.
+
 Return Response: The method returns the response from the tool maker.
-Code Generation
+
+### Code Generation
 
 The code generation process involves the following steps:
 
 Parsing the documented_tool string: The method parses the documented_tool string to extract the tool name, description, input type, output type, pipeline, and usage.
+
 Generating the tool code: The method generates the Python code for the tool based on the parsed values.
+
 Saving the code: The method saves the generated code in a .py file.
-Return Response
+
+### Return Response
 
 The method returns the response from the tool maker, which includes the generated tool code and other relevant information.
 
@@ -55,24 +64,39 @@ The method returns the response from the tool maker, which includes the generate
 The ToolGenerator class has the following class variables:
 
 tool_name: The name of the generated tool.
+
 tool_description: The description of the generated tool.
+
 input_type: The input type of the generated tool.
+
 output_type: The output type of the generated tool.
+
 pipeline: The pipeline code of the generated tool.
+
 tool_usage: The usage of the generated tool.
-Method Variables
+
+### Method Variables
 
 The generate_tool method has the following method variables:
 
 user_input: The user input used to generate the tool.
+
 tool: The generated tool code.
+
 refined_tool: The refined tool code.
+
 documented_tool: The documented tool string.
+
 tool_name: The name of the generated tool.
+
 tool_description: The description of the generated tool.
+
 input_type: The input type of the generated tool.
+
 output_type: The output type of the generated tool.
+
 pipeline: The pipeline code of the generated tool.
+
 tool_usage: The usage of the generated tool.
 
 ## Contributing
