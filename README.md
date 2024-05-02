@@ -8,10 +8,15 @@ Co-Llama is a personal AI assistant and user companion that speaks with the tone
 ## Features
 
 ✅ Conversational AI assistant that responds to user input
+
 ✅ Supports multiple modes (Performance (Online - Groq/Llama-8B), Privacy (Offline - Local/Llama3-8B), Quality (Online - Groq/Llama-70B)
+
 ✅ Supports multiple roles (Samantha (Her), C3PO (Star Wars), etc.)
+
 ✅ Can play audio responses using Amazon Polly
+
 ❌ Can display responses in Markdown format
+
 ✅ Can be run as a standalone application or as a system tray icon on Windows
 
 ## Getting Started
