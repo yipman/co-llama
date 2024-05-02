@@ -29,4 +29,4 @@ Co-Llama was created by Alejandro Rean. Special thanks to the Meta team for thei
 
 ## Contact
 
-If you have any questions or feedback, please don't hesitate to reach out to me at [Your Email Address].
+If you have any questions or feedback, please don't hesitate to reach out to me at arean@synaxis.com.ar .
