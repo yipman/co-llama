@@ -19,6 +19,8 @@ Co-Llama is a personal AI assistant and user companion that speaks with the tone
 
 ✅ Can be run as a standalone application or as a system tray icon on Windows
 
+✅ Supports Light / Dark mode
+
 ## Getting Started
 
 To use Co-Llama, simply run the `co-llama.py` file and interact with the application using the GUI. The application also has as a system tray icon on Windows where the user can show/hide Co-Llama.
