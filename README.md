@@ -25,6 +25,20 @@ Co-Llama is a personal AI assistant and user companion that speaks with the tone
 
 To use Co-Llama, simply run the `co-llama.py` file and interact with the application using the GUI. The application also has as a system tray icon on Windows where the user can show/hide Co-Llama.
 
+## Running the Flask Web Interface
+
+1. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+2. Run the Flask app:
+    ```bash
+    python app.py
+    ```
+
+3. Open your web browser and go to `http://127.0.0.1:5000` to access the web interface.
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Co-Llama, please fork the repository and submit a pull request with your changes. Please make sure to follow the coding conventions and style guidelines used in the project.
