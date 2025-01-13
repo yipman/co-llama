@@ -11,7 +11,8 @@ from PIL import Image                 # Tray Icon
 import atexit
 import markdown                       # Future markdown support
 import env                            # API env file
-import gradio as gr                   # Future Web UI
 import boto3                          # TTS AWS Polly
 import os
 import pygame                         # TTS Playback
+import flask
+import flask-bootstrap
